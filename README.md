@@ -19,3 +19,9 @@ Build:
 Run the program:
 
 - `$ hwproj`
+
+Clean everything:
+
+- `# make clean-all`
+
+This command has to be run on behalf of root user because it invokes uninstall target.
